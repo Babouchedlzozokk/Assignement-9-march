@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cJMiZ3d9Y2keKuYijyzfxGQQT/XAST1YwPegIk75fmiXevNyctJ3l80lw/tNlTz5QNvJiYtpQZPA+NYrG0Glcg==",
+  "dgSpecHash": "AD6+/E4PlFCl2b07N7zUAP0Ey8q4bb6cL6PmjwyELuckXiGATHDDf/qu6tH2zkMy/sMnXVGwc1wrz/TmwxMNDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathy\\OneDrive\\Bureau\\Interactive MVVM\\Interactive MVVM.csproj",
+  "projectFilePath": "C:\\Users\\mathy\\Assignement-9-march\\Interactive MVVM\\Interactive MVVM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathy\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\mathy\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

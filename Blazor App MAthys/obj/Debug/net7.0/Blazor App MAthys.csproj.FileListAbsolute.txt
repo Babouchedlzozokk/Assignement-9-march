@@ -30,3 +30,35 @@ C:\Users\mathy\OneDrive\Bureau\Blazor App MAthys\obj\Debug\net7.0\refint\Blazor 
 C:\Users\mathy\OneDrive\Bureau\Blazor App MAthys\obj\Debug\net7.0\Blazor App MAthys.pdb
 C:\Users\mathy\OneDrive\Bureau\Blazor App MAthys\obj\Debug\net7.0\Blazor App MAthys.genruntimeconfig.cache
 C:\Users\mathy\OneDrive\Bureau\Blazor App MAthys\obj\Debug\net7.0\ref\Blazor App MAthys.dll
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\bin\Debug\net7.0\appsettings.json
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\bin\Debug\net7.0\Blazor App MAthys.staticwebassets.runtime.json
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\bin\Debug\net7.0\Blazor App MAthys.exe
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\bin\Debug\net7.0\Blazor App MAthys.deps.json
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\bin\Debug\net7.0\Blazor App MAthys.runtimeconfig.json
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\bin\Debug\net7.0\Blazor App MAthys.dll
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\bin\Debug\net7.0\Blazor App MAthys.pdb
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\Blazor App MAthys.csproj.AssemblyReference.cache
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\Blazor App MAthys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\Blazor App MAthys.AssemblyInfoInputs.cache
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\Blazor App MAthys.AssemblyInfo.cs
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\Blazor App MAthys.csproj.CoreCompileInputs.cache
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\Blazor App MAthys.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\Blazor App MAthys.RazorAssemblyInfo.cache
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\Blazor App MAthys.RazorAssemblyInfo.cs
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\staticwebassets\msbuild.Blazor App MAthys.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\staticwebassets\msbuild.build.Blazor App MAthys.props
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Blazor App MAthys.props
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Blazor App MAthys.props
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\scopedcss\bundle\Blazor App MAthys.styles.css
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\scopedcss\projectbundle\Blazor App MAthys.bundle.scp.css
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\Blazor App MAthys.dll
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\refint\Blazor App MAthys.dll
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\Blazor App MAthys.pdb
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\Blazor App MAthys.genruntimeconfig.cache
+C:\Users\mathy\Assignement-9-march\Blazor App MAthys\obj\Debug\net7.0\ref\Blazor App MAthys.dll

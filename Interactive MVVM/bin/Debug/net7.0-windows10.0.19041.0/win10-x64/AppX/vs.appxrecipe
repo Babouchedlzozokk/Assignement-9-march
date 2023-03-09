@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>69609db1-888f-41aa-ba6a-a07ea612b697</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\mathy\Assignement-9-march\Interactive MVVM\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>7D8C6FA5A207545733CDFC389044657E15ADAE6F62CF157573D08B4024C76255</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>69609db1-888f-41aa-ba6a-a07ea612b697_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>69609db1-888f-41aa-ba6a-a07ea612b697_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,28 +27,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T18:17:49.747</Modified>
+      <Modified>2023-03-09T19:09:01.020</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-09T18:17:49.258</Modified>
+      <Modified>2023-03-09T19:08:59.751</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Interactive MVVM.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Interactive MVVM.runtimeconfig.json">
       <PackagePath>Interactive MVVM.runtimeconfig.json</PackagePath>
-      <Modified>2023-03-09T18:17:48.618</Modified>
+      <Modified>2023-03-09T18:45:03.023</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Interactive MVVM.dll">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Interactive MVVM.dll">
       <PackagePath>Interactive MVVM.dll</PackagePath>
-      <Modified>2023-03-09T18:17:43.332</Modified>
+      <Modified>2023-03-09T19:08:58.211</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Interactive MVVM.exe</PackagePath>
-      <Modified>2023-03-09T18:17:43.495</Modified>
+      <Modified>2023-03-09T19:08:58.260</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mathy\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.3\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -918,9 +918,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Interactive MVVM.deps.json">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Interactive MVVM.deps.json">
       <PackagePath>Interactive MVVM.deps.json</PackagePath>
-      <Modified>2023-03-09T18:17:49.565</Modified>
+      <Modified>2023-03-09T19:09:00.779</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.59\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -934,239 +934,239 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-01-19T16:16:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-03-09T18:12:18.309</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-03-09T18:13:59.305</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-03-09T18:13:59.329</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-03-09T18:13:59.457</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-03-09T18:13:59.636</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-03-09T18:14:00.390</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-03-09T18:12:18.307</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2023-03-09T18:12:18.308</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2023-03-09T18:14:01.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2023-03-09T18:14:02.922</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2023-03-09T18:14:02.939</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2023-03-09T18:14:02.953</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2023-03-09T18:14:03.066</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2023-03-09T18:14:03.288</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2023-03-09T18:14:02.284</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2023-03-09T18:14:02.321</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2023-03-09T18:14:02.393</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2023-03-09T18:14:02.346</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2023-03-09T18:14:02.352</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2023-03-09T18:14:02.172</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2023-03-09T18:14:02.179</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2023-03-09T18:14:02.271</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2023-03-09T18:14:02.220</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2023-03-09T18:14:02.230</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2023-03-09T18:14:01.938</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2023-03-09T18:14:01.956</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2023-03-09T18:14:01.979</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2023-03-09T18:14:02.009</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2023-03-09T18:14:02.019</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2023-03-09T18:14:02.061</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2023-03-09T18:14:02.068</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2023-03-09T18:14:02.126</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2023-03-09T18:14:02.109</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2023-03-09T18:14:02.116</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2023-03-09T18:14:02.694</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2023-03-09T18:14:02.715</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2023-03-09T18:14:02.747</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2023-03-09T18:14:02.764</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2023-03-09T18:14:02.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2023-03-09T18:14:02.567</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2023-03-09T18:14:02.577</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2023-03-09T18:14:02.617</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2023-03-09T18:14:02.635</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2023-03-09T18:14:02.668</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2023-03-09T18:14:02.412</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2023-03-09T18:14:02.420</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2023-03-09T18:14:02.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2023-03-09T18:14:02.480</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2023-03-09T18:14:02.515</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2023-03-09T18:14:02.832</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2023-03-09T18:14:02.842</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2023-03-09T18:14:02.851</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2023-03-09T18:14:02.868</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2023-03-09T18:14:02.911</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2023-03-09T18:14:01.606</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2023-03-09T18:14:01.682</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2023-03-09T18:14:01.718</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2023-03-09T18:14:01.764</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mathy\OneDrive\Bureau\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\mathy\Assignement-9-march\Interactive MVVM\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-03-09T18:14:01.852</Modified>
     </AppxPackagedFile>

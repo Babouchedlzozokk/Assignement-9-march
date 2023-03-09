@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathy\\OneDrive\\Bureau\\Interactive MVVM\\Interactive MVVM.csproj": {}
+    "C:\\Users\\mathy\\Assignement-9-march\\Interactive MVVM\\Interactive MVVM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathy\\OneDrive\\Bureau\\Interactive MVVM\\Interactive MVVM.csproj": {
+    "C:\\Users\\mathy\\Assignement-9-march\\Interactive MVVM\\Interactive MVVM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathy\\OneDrive\\Bureau\\Interactive MVVM\\Interactive MVVM.csproj",
+        "projectUniqueName": "C:\\Users\\mathy\\Assignement-9-march\\Interactive MVVM\\Interactive MVVM.csproj",
         "projectName": "Interactive MVVM",
-        "projectPath": "C:\\Users\\mathy\\OneDrive\\Bureau\\Interactive MVVM\\Interactive MVVM.csproj",
+        "projectPath": "C:\\Users\\mathy\\Assignement-9-march\\Interactive MVVM\\Interactive MVVM.csproj",
         "packagesPath": "C:\\Users\\mathy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathy\\OneDrive\\Bureau\\Interactive MVVM\\obj\\",
+        "outputPath": "C:\\Users\\mathy\\Assignement-9-march\\Interactive MVVM\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

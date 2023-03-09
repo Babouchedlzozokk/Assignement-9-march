@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathy\\OneDrive\\Bureau\\Blazor App MAthys\\Blazor App MAthys.csproj": {}
+    "C:\\Users\\mathy\\Assignement-9-march\\Blazor App MAthys\\Blazor App MAthys.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathy\\OneDrive\\Bureau\\Blazor App MAthys\\Blazor App MAthys.csproj": {
+    "C:\\Users\\mathy\\Assignement-9-march\\Blazor App MAthys\\Blazor App MAthys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathy\\OneDrive\\Bureau\\Blazor App MAthys\\Blazor App MAthys.csproj",
+        "projectUniqueName": "C:\\Users\\mathy\\Assignement-9-march\\Blazor App MAthys\\Blazor App MAthys.csproj",
         "projectName": "Blazor App MAthys",
-        "projectPath": "C:\\Users\\mathy\\OneDrive\\Bureau\\Blazor App MAthys\\Blazor App MAthys.csproj",
+        "projectPath": "C:\\Users\\mathy\\Assignement-9-march\\Blazor App MAthys\\Blazor App MAthys.csproj",
         "packagesPath": "C:\\Users\\mathy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathy\\OneDrive\\Bureau\\Blazor App MAthys\\obj\\",
+        "outputPath": "C:\\Users\\mathy\\Assignement-9-march\\Blazor App MAthys\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

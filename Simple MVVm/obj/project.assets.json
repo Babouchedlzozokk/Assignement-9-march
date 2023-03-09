@@ -24019,11 +24019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathy\\OneDrive\\Bureau\\Simple MVVm\\Simple MVVm.csproj",
+      "projectUniqueName": "C:\\Users\\mathy\\Assignement-9-march\\Simple MVVm\\Simple MVVm.csproj",
       "projectName": "Simple MVVm",
-      "projectPath": "C:\\Users\\mathy\\OneDrive\\Bureau\\Simple MVVm\\Simple MVVm.csproj",
+      "projectPath": "C:\\Users\\mathy\\Assignement-9-march\\Simple MVVm\\Simple MVVm.csproj",
       "packagesPath": "C:\\Users\\mathy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathy\\OneDrive\\Bureau\\Simple MVVm\\obj\\",
+      "outputPath": "C:\\Users\\mathy\\Assignement-9-march\\Simple MVVm\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

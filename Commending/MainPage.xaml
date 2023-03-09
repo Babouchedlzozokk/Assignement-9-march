@@ -6,9 +6,10 @@
     <ContentPage.BindingContext>
         <local:KeypadViewModel />
     </ContentPage.BindingContext>
-
+    <VerticalStackLayout>
     <Grid HorizontalOptions="Center" VerticalOptions="Center">
         <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
             <RowDefinition Height="Auto" />
             <RowDefinition Height="Auto" />
             <RowDefinition Height="Auto" />
@@ -43,5 +44,14 @@
         <Button Text="*" Command="{Binding AddCharCommand}" CommandParameter="*" Grid.Row="4" />
         <Button Text="0" Command="{Binding AddCharCommand}" CommandParameter="0" Grid.Row="4" Grid.Column="1" />
         <Button Text="#" Command="{Binding AddCharCommand}" CommandParameter="#" Grid.Row="4" Grid.Column="2" />
+        
+        
+
+
     </Grid>
+        <VerticalStackLayout>
+            <Label Text="Mathys Popoff-Morin"></Label>
+            <Label Text="Student ID(NPR) = 5999222014"></Label>
+        </VerticalStackLayout>
+    </VerticalStackLayout>
 </ContentPage>

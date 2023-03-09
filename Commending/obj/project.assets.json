@@ -24019,11 +24019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathy\\OneDrive\\Bureau\\Commending\\Commending.csproj",
+      "projectUniqueName": "C:\\Users\\mathy\\Assignement-9-march\\Commending\\Commending.csproj",
       "projectName": "Commending",
-      "projectPath": "C:\\Users\\mathy\\OneDrive\\Bureau\\Commending\\Commending.csproj",
+      "projectPath": "C:\\Users\\mathy\\Assignement-9-march\\Commending\\Commending.csproj",
       "packagesPath": "C:\\Users\\mathy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathy\\OneDrive\\Bureau\\Commending\\obj\\",
+      "outputPath": "C:\\Users\\mathy\\Assignement-9-march\\Commending\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
